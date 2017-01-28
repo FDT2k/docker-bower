@@ -13,4 +13,5 @@ RUN npm install --global bower
 
 WORKDIR /app/
 
+
 ENTRYPOINT ["bower"]
